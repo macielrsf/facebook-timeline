@@ -26,7 +26,7 @@
 
 ## :information_source: Sobre a aplicação
 
-A aplicação desenvolvida têm intuito único e exclusivo para aprendizado do ecosistema ReactJS.
+A aplicação desenvolvida têm intuito único e exclusivo para aprendizado do ecossistema ReactJS.
 Se trata de uma interface semelhante a timeline da rede social Facebook.
 
 ## :rocket: Tecnologias Utilizadas
