@@ -31,10 +31,10 @@ Se trata de uma interface semelhante a timeline da rede social Facebook.
 
 ## :rocket: Tecnologias Utilizadas
 
-- Webpack [https://webpack.js.org/]
-- Babel [https://babeljs.io/]
-- Webpack Dev Server [https://webpack.js.org/configuration/dev-server/]
-- ReactJS [https://pt-br.reactjs.org/]
+- [Webpack](https://webpack.js.org/)
+- [Babel](https://babeljs.io/)
+- [Webpack Dev Server](https://webpack.js.org/configuration/dev-server/)
+- [ReactJS](https://pt-br.reactjs.org/)
 
 ### Tela da aplicação
 
